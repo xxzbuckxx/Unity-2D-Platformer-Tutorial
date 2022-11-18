@@ -17,10 +17,10 @@
 Here is a Unity platformer I made following a youtube tutorial by [Pandemonium](https://www.youtube.com/@PandemoniumGameDev).
 
 
-Episodes completed of[the tutorial Series](https://www.youtube.com/watch?v=TcranVQUQ5U&list=PLgOEwFbvGm5o8hayFB6skAfa8Z-mw4dPV):
+Episodes completed of [the tutorial Series](https://www.youtube.com/watch?v=TcranVQUQ5U&list=PLgOEwFbvGm5o8hayFB6skAfa8Z-mw4dPV):
 - [X] 1. Player Movement
 - [X] 2. Animation
-- [X] 3. Wall Jumping
+- [X] 3. `1f479b0` - Wall Jumping
 - [ ] 4. Shooting
 - [ ] 5. Graphics
 - [ ] 6. Camera Movement
