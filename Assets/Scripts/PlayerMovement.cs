@@ -42,7 +42,7 @@ public class PlayerMovement : MonoBehaviour
                 body.gravityScale = 0;
                 body.velocity = Vector2.zero;
             } else {
-                body.gravityScale = 4;
+                body.gravityScale = 3;
             }
 
             if (Input.GetKey(KeyCode.Space))
