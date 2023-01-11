@@ -22,7 +22,7 @@ Episodes completed of [the tutorial Series](https://www.youtube.com/watch?v=Tcra
 - [X] 2. Animation
 - [X] 3. `1f479b0` - Wall Jumping
 - [X] 4. `19b9161` - Shooting
-- [X] 5. Graphics
+- [X] 5. `0de98a6` - Graphics
 - [ ] 6. Camera Movement
 - [ ] 7. Health System
 - [ ] 8. IFrames
